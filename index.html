@@ -2,68 +2,40 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Megacracks 2025/26</title>
-  <link rel="stylesheet" href="styles.css">
+  <title>Mi colección de cromos</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <!-- INICIO -->
-  <div class="album home active">
-    <h1>MEGACRACKS 2025/26</h1>
+  <main class="home">
 
-    <!-- Progreso total -->
-    <section class="card decor">
-      <h2>Progreso total</h2>
-      <div class="bar">
+    <h1>Mi colección de cromos</h1>
+
+    <!-- Barra colección total -->
+    <div class="bar">
+      <div class="label">Colección completada</div>
+      <div class="progress">
         <div class="fill original"></div>
         <span class="counter">0 / 0</span>
       </div>
-    </section>
+    </div>
 
     <!-- Repetidas -->
-    <section class="card decor">
-      <h2>🃏 Repetidas</h2>
-      <div class="bar">
+    <div class="bar">
+      <div class="label">Repetidas</div>
+      <div class="progress">
         <div class="fill repetidas-bar"></div>
         <span class="counter">0</span>
       </div>
-    </section>
-
-    <!-- Añadir cromo manual -->
-    <section class="card decor add">
-      <input type="text" id="inputCromo" placeholder="Número de cromo">
-      <button id="addButton">Añadir cromo</button>
-    </section>
-
-    <!-- Cargar Excel -->
-    <section class="card decor add-excel">
-      <input type="file" id="excelFile" accept=".xlsx,.xls">
-      <button id="cargarExcel">Cargar colección</button>
-    </section>
-
-    <!-- Botón ver álbum -->
-    <button class="primary view-album">📖 Ver álbum</button>
-  </div>
-
-  <!-- VISTA DEL ÁLBUM -->
-  <div class="album album-view">
-    <h2>Equipo</h2>
-    <div class="bar">
-      <div class="fill original"></div>
-      <span class="counter">0 / 0</span>
     </div>
 
-    <div class="grid-wrapper">
-      <div class="grid"></div>
-      <div class="grid-pages"></div>
-    </div>
+    <!-- Ir al álbum -->
+    <a href="album.html" class="btn-album">
+      Ver el álbum
+    </a>
 
-    <button class="secondary">← Volver a inicio</button>
-  </div>
+  </main>
 
-  <!-- SheetJS -->
-  <script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
   <script src="script.js"></script>
-
 </body>
 </html>
