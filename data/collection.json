@@ -1,0 +1,3029 @@
+{
+"cards":[
+ {
+   "id": "1",
+   "name": "Bellingham",
+   "collection": "Elite"
+ },
+ {
+   "id": "2",
+   "name": "Budimir",
+   "collection": "Elite"
+ },
+ {
+   "id": "3",
+   "name": "Courtois",
+   "collection": "Elite"
+ },
+ {
+   "id": "4",
+   "name": "Dani Olmo",
+   "collection": "Elite"
+ },
+ {
+   "id": "5",
+   "name": "Fede Valverde",
+   "collection": "Elite"
+ },
+ {
+   "id": "6",
+   "name": "Griezmann",
+   "collection": "Elite"
+ },
+ {
+   "id": "7",
+   "name": "Isco",
+   "collection": "Elite"
+ },
+ {
+   "id": "8",
+   "name": "Julián Alvarez",
+   "collection": "Elite"
+ },
+ {
+   "id": "9",
+   "name": "Lamine Yamal",
+   "collection": "Elite"
+ },
+ {
+   "id": "10",
+   "name": "Lewandowski",
+   "collection": "Elite"
+ },
+ {
+   "id": "11",
+   "name": "Lukebakio",
+   "collection": "Elite"
+ },
+ {
+   "id": "12",
+   "name": "Mbappé",
+   "collection": "Elite"
+ },
+ {
+   "id": "13",
+   "name": "Nico Williams",
+   "collection": "Elite"
+ },
+ {
+   "id": "14",
+   "name": "Oblak",
+   "collection": "Elite"
+ },
+ {
+   "id": "15",
+   "name": "Pedri",
+   "collection": "Elite"
+ },
+ {
+   "id": "16",
+   "name": "Raphinha",
+   "collection": "Elite"
+ },
+ {
+   "id": "17",
+   "name": "Sancet",
+   "collection": "Elite"
+ },
+ {
+   "id": "18",
+   "name": "Vinícius",
+   "collection": "Elite"
+ },
+ {
+   "id": "19",
+   "name": "Escudo",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "20",
+   "name": "Sivera",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "21",
+   "name": "Owono",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "021 Bis",
+   "name": "Raúl Fernández",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "22",
+   "name": "Tenaglia",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "23",
+   "name": "Moussa Diarra",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "24",
+   "name": "Garcés",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "25",
+   "name": "Mouriño",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "025 Bis",
+   "name": "Parada",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "26",
+   "name": "Manu Sánchez",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "026 Bis",
+   "name": "Jonny",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "27",
+   "name": "Benavídez",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "28",
+   "name": "Guevara",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "29",
+   "name": "Blanco",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "30",
+   "name": "Guridi",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "31",
+   "name": "Aleñá",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "32",
+   "name": "Carlos Vicente",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "33",
+   "name": "Conechny",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "033 Bis",
+   "name": "Boyé",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "34",
+   "name": "Mariano",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "35",
+   "name": "Toni Martínez",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "36",
+   "name": "Villalibre",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "036 Bis",
+   "name": "Calebe",
+   "collection": "Deportivo Alavés"
+ },
+ {
+   "id": "37",
+   "name": "Escudo",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "38",
+   "name": "Unai Simón",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "39",
+   "name": "Agirrezabala",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "039 Bis",
+   "name": "Padilla",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "40",
+   "name": "Gorosabel",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "040 Bis",
+   "name": "Lekue",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "41",
+   "name": "Vivian",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "42",
+   "name": "Paredes",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "43",
+   "name": "Yeray",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "043 Bis",
+   "name": "Adama Boiro",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "44",
+   "name": "Yuri",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "45",
+   "name": "Vesga",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "46",
+   "name": "Jauregizar",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "47",
+   "name": "Prados",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "48",
+   "name": "Ruiz de Galarreta",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "49",
+   "name": "Unai Gómez",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "50",
+   "name": "Sancet",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "51",
+   "name": "Williams",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "52",
+   "name": "Berenguer",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "53",
+   "name": "Nico Williams",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "54",
+   "name": "Guruzeta",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "054 Bis",
+   "name": "Maroan",
+   "collection": "Athletic Club"
+ },
+ {
+   "id": "55",
+   "name": "Escudo",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "56",
+   "name": "Oblak",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "57",
+   "name": "Musso",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "58",
+   "name": "Nahuel Molina",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "058 Bis",
+   "name": "Pubill",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "59",
+   "name": "Giménez",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "60",
+   "name": "Le Normand",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "61",
+   "name": "Lenglet",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "62",
+   "name": "Galán",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "062 Bis",
+   "name": "Ruggeri",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "63",
+   "name": "Gallagher",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "64",
+   "name": "De Paul",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "064 Bis",
+   "name": "Johnny Cardoso",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "65",
+   "name": "Barrios",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "66",
+   "name": "Koke",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "67",
+   "name": "Marcos Llorente",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "68",
+   "name": "Samuel Lino",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "068 Bis",
+   "name": "Almada",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "69",
+   "name": "Giuliano",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "70",
+   "name": "Julián Alvarez",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "71",
+   "name": "Griezmann",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "72",
+   "name": "Sorloth",
+   "collection": "Atlético De Madrid"
+ },
+ {
+   "id": "73",
+   "name": "Escudo",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "74",
+   "name": "Ter Stegen",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "75",
+   "name": "Szczesny",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "76",
+   "name": "Koundé",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "77",
+   "name": "Cubarsí",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "78",
+   "name": "Araújo",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "79",
+   "name": "Íñigo Martínez",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "079 Bis",
+   "name": "Christensen",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "80",
+   "name": "Eric García",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "080 Bis",
+   "name": "Gerard Martín",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "81",
+   "name": "Balde",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "82",
+   "name": "Casadó",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "082 Bis",
+   "name": "Dro",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "83",
+   "name": "De Jong",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "84",
+   "name": "Fermín",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "85",
+   "name": "Gavi",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "86",
+   "name": "Pedri",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "87",
+   "name": "Dani Olmo",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "88",
+   "name": "Lamine Yamal",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "89",
+   "name": "Lewandowski",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "089 Bis",
+   "name": "Ferran Torres",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "90",
+   "name": "Raphinha",
+   "collection": "Barcelona"
+ },
+ {
+   "id": "91",
+   "name": "Escudo",
+   "collection": "Betis"
+ },
+ {
+   "id": "92",
+   "name": "Valles",
+   "collection": "Betis"
+ },
+ {
+   "id": "93",
+   "name": "Adrián",
+   "collection": "Betis"
+ },
+ {
+   "id": "093 Bis",
+   "name": "Pau López",
+   "collection": "Betis"
+ },
+ {
+   "id": "94",
+   "name": "Aitor Ruibal",
+   "collection": "Betis"
+ },
+ {
+   "id": "094 Bis",
+   "name": "Bellerín",
+   "collection": "Betis"
+ },
+ {
+   "id": "95",
+   "name": "Bartra",
+   "collection": "Betis"
+ },
+ {
+   "id": "96",
+   "name": "Diego Llorente",
+   "collection": "Betis"
+ },
+ {
+   "id": "97",
+   "name": "Natan",
+   "collection": "Betis"
+ },
+ {
+   "id": "98",
+   "name": "Perraud",
+   "collection": "Betis"
+ },
+ {
+   "id": "098 Bis",
+   "name": "Junior",
+   "collection": "Betis"
+ },
+ {
+   "id": "99",
+   "name": "Marc Roca",
+   "collection": "Betis"
+ },
+ {
+   "id": "100",
+   "name": "Altimira",
+   "collection": "Betis"
+ },
+ {
+   "id": "101",
+   "name": "Lo Celso",
+   "collection": "Betis"
+ },
+ {
+   "id": "102",
+   "name": "Pablo Fornals",
+   "collection": "Betis"
+ },
+ {
+   "id": "103",
+   "name": "Isco",
+   "collection": "Betis"
+ },
+ {
+   "id": "104",
+   "name": "Pablo García",
+   "collection": "Betis"
+ },
+ {
+   "id": "105",
+   "name": "Antony",
+   "collection": "Betis"
+ },
+ {
+   "id": "105 Bis",
+   "name": "Riquelme",
+   "collection": "Betis"
+ },
+ {
+   "id": "106",
+   "name": "Cucho Hernández",
+   "collection": "Betis"
+ },
+ {
+   "id": "107",
+   "name": "Abde",
+   "collection": "Betis"
+ },
+ {
+   "id": "108",
+   "name": "Bakambu",
+   "collection": "Betis"
+ },
+ {
+   "id": "109",
+   "name": "Escudo",
+   "collection": "Celta"
+ },
+ {
+   "id": "110",
+   "name": "Radu",
+   "collection": "Celta"
+ },
+ {
+   "id": "111",
+   "name": "Iván Villar",
+   "collection": "Celta"
+ },
+ {
+   "id": "112",
+   "name": "Javi Rodríguez",
+   "collection": "Celta"
+ },
+ {
+   "id": "112 Bis",
+   "name": "Carreira",
+   "collection": "Celta"
+ },
+ {
+   "id": "113",
+   "name": "Starfelt",
+   "collection": "Celta"
+ },
+ {
+   "id": "114",
+   "name": "Domínguez",
+   "collection": "Celta"
+ },
+ {
+   "id": "115",
+   "name": "Yoel Lago",
+   "collection": "Celta"
+ },
+ {
+   "id": "115 Bis",
+   "name": "Javi Rueda",
+   "collection": "Celta"
+ },
+ {
+   "id": "116",
+   "name": "Mingueza",
+   "collection": "Celta"
+ },
+ {
+   "id": "117",
+   "name": "Marcos Alonso",
+   "collection": "Celta"
+ },
+ {
+   "id": "118",
+   "name": "Ilaix Moriba",
+   "collection": "Celta"
+ },
+ {
+   "id": "119",
+   "name": "Fran Beltrán",
+   "collection": "Celta"
+ },
+ {
+   "id": "120",
+   "name": "Damián",
+   "collection": "Celta"
+ },
+ {
+   "id": "121",
+   "name": "Hugo Álvarez",
+   "collection": "Celta"
+ },
+ {
+   "id": "122",
+   "name": "Sotelo",
+   "collection": "Celta"
+ },
+ {
+   "id": "123",
+   "name": "Cervi",
+   "collection": "Celta"
+ },
+ {
+   "id": "123 Bis",
+   "name": "Borja Iglesias",
+   "collection": "Celta"
+ },
+ {
+   "id": "124",
+   "name": "Pablo Durán",
+   "collection": "Celta"
+ },
+ {
+   "id": "125",
+   "name": "Swedberg",
+   "collection": "Celta"
+ },
+ {
+   "id": "126",
+   "name": "Iago Aspas",
+   "collection": "Celta"
+ },
+ {
+   "id": "127",
+   "name": "Escudo",
+   "collection": "Elche"
+ },
+ {
+   "id": "128",
+   "name": "Dituro",
+   "collection": "Elche"
+ },
+ {
+   "id": "129",
+   "name": "Iturbe",
+   "collection": "Elche"
+ },
+ {
+   "id": "129 Bis",
+   "name": "Iñaki Peña",
+   "collection": "Elche"
+ },
+ {
+   "id": "130",
+   "name": "Álvaro Núñez",
+   "collection": "Elche"
+ },
+ {
+   "id": "131",
+   "name": "Affengruber",
+   "collection": "Elche"
+ },
+ {
+   "id": "132",
+   "name": "Diaby",
+   "collection": "Elche"
+ },
+ {
+   "id": "132 Bis",
+   "name": "Chust",
+   "collection": "Elche"
+ },
+ {
+   "id": "133",
+   "name": "John Chetauya",
+   "collection": "Elche"
+ },
+ {
+   "id": "134",
+   "name": "Bigas",
+   "collection": "Elche"
+ },
+ {
+   "id": "135",
+   "name": "Jairo",
+   "collection": "Elche"
+ },
+ {
+   "id": "135 Bis",
+   "name": "Pedrosa",
+   "collection": "Elche"
+ },
+ {
+   "id": "136",
+   "name": "Febas",
+   "collection": "Elche"
+ },
+ {
+   "id": "137",
+   "name": "Marc Aguado",
+   "collection": "Elche"
+ },
+ {
+   "id": "138",
+   "name": "Rodri Mendoza",
+   "collection": "Elche"
+ },
+ {
+   "id": "139",
+   "name": "Nico Fernández",
+   "collection": "Elche"
+ },
+ {
+   "id": "139 Bis",
+   "name": "Martim Neto",
+   "collection": "Elche"
+ },
+ {
+   "id": "140",
+   "name": "Josan",
+   "collection": "Elche"
+ },
+ {
+   "id": "141",
+   "name": "Agustín Álvarez",
+   "collection": "Elche"
+ },
+ {
+   "id": "141 Bis",
+   "name": "Germán Valera",
+   "collection": "Elche"
+ },
+ {
+   "id": "142",
+   "name": "Mourad",
+   "collection": "Elche"
+ },
+ {
+   "id": "142 Bis",
+   "name": "André Silva",
+   "collection": "Elche"
+ },
+ {
+   "id": "143",
+   "name": "Yago Santiago",
+   "collection": "Elche"
+ },
+ {
+   "id": "144",
+   "name": "Óscar Plano",
+   "collection": "Elche"
+ },
+ {
+   "id": "144 Bis",
+   "name": "Álvaro Rodríguez",
+   "collection": "Elche"
+ },
+ {
+   "id": "145",
+   "name": "Escudo",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "146",
+   "name": "Dmitrovic",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "147",
+   "name": "Fortuño",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "148",
+   "name": "El Hilali",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "149",
+   "name": "Tejero",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "149 Bis",
+   "name": "Miguel Rubio",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "150",
+   "name": "Calero",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "151",
+   "name": "Cabrera",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "152",
+   "name": "Pablo Ramón",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "152 Bis",
+   "name": "Salinas",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "153",
+   "name": "Carlos Romero",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "154",
+   "name": "Gragera",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "154 Bis",
+   "name": "Rubén Sánchez",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "155",
+   "name": "Terrats",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "156",
+   "name": "Pol Lozano",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "156 Bis",
+   "name": "Urko",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "157",
+   "name": "Edu Expósito",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "158",
+   "name": "Jofre",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "159",
+   "name": "Antoniu Roca",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "159 Bis",
+   "name": "Koleosho",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "160",
+   "name": "Pere Milla",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "161",
+   "name": "Puado",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "162",
+   "name": "Roberto Fernández",
+   "collection": "Espanyol"
+ },
+ {
+   "id": "163",
+   "name": "Escudo",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "164",
+   "name": "David Soria",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "165",
+   "name": "Letacek",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "166",
+   "name": "Sola",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "166 Bis",
+   "name": "Kiko Femenía",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "167",
+   "name": "Iglesias",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "168",
+   "name": "Alderete",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "168 Bis",
+   "name": "Abqar",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "169",
+   "name": "Djené",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "170",
+   "name": "Domingos Duarte",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "171",
+   "name": "Berrocal",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "171 Bis",
+   "name": "Davinchi",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "172",
+   "name": "Diego Rico",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "173",
+   "name": "Arambarri",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "174",
+   "name": "Milla",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "175",
+   "name": "Uche",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "175 Bis",
+   "name": "Mario Martín",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "176",
+   "name": "Peter Federico",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "176 Bis",
+   "name": "Abu Kamara",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "177",
+   "name": "Coba",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "178",
+   "name": "Borja Mayoral",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "179",
+   "name": "Álvaro Rodríguez",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "179 Bis",
+   "name": "Álex Sancris",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "180",
+   "name": "Juanmi",
+   "collection": "Getafe Cf"
+ },
+ {
+   "id": "181",
+   "name": "Escudo",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "182",
+   "name": "Gazzaniga",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "183",
+   "name": "Krapyvtsov",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "184",
+   "name": "Arnau",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "185",
+   "name": "David López",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "185 Bis",
+   "name": "Hugo Rincón",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "186",
+   "name": "Krejci",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "186 Bis",
+   "name": "Francés",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "187",
+   "name": "Blind",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "188",
+   "name": "Miguel Gutiérrez",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "188 Bis",
+   "name": "Álex Moreno",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "189",
+   "name": "Arthur",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "189 Bis",
+   "name": "Joel Roca",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "190",
+   "name": "Van de Beek",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "191",
+   "name": "Solís",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "192",
+   "name": "Yangel Herrera",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "192 Bis",
+   "name": "Witsel",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "193",
+   "name": "Iván Martín",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "194",
+   "name": "Tsygankov",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "195",
+   "name": "Yáser Asprilla",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "196",
+   "name": "Abel Ruiz",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "196 Bis",
+   "name": "Bryan Gil",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "197",
+   "name": "Portu",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "198",
+   "name": "Stuani",
+   "collection": "Girona Fc"
+ },
+ {
+   "id": "199",
+   "name": "Escudo",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "200",
+   "name": "Pablo Campos",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "201",
+   "name": "Alfonso Pastor",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "201 Bis",
+   "name": "Ryan",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "202",
+   "name": "Toljan",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "203",
+   "name": "Dela",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "204",
+   "name": "Cabello",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "204 Bis",
+   "name": "Matturro",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "205",
+   "name": "Elgezabal",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "206",
+   "name": "Pampín",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "207",
+   "name": "Oriol Rey",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "208",
+   "name": "Victor García",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "208 Bis",
+   "name": "Vencedor",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "209",
+   "name": "Sergio Lozano",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "209 Bis",
+   "name": "Iker Losada",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "210",
+   "name": "Olasagasti",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "211",
+   "name": "Pablo Martínez",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "212",
+   "name": "Carlos Álvarez",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "213",
+   "name": "Iván Romero",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "214",
+   "name": "Brugué",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "215",
+   "name": "Carlos Espí",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "216",
+   "name": "Morales",
+   "collection": "Levante Ud"
+ },
+ {
+   "id": "217",
+   "name": "Escudo",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "218",
+   "name": "Courtois",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "219",
+   "name": "Lunin",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "220",
+   "name": "Carvajal",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "221",
+   "name": "Militao",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "222",
+   "name": "Asencio",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "223",
+   "name": "Rüdiger",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "224",
+   "name": "Alaba",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "225",
+   "name": "Mendy",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "225 Bis",
+   "name": "Fran Garcia",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "226",
+   "name": "Tchouaméni",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "227",
+   "name": "Camavinga",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "227 Bis",
+   "name": "Dani Ceballos",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "228",
+   "name": "Fede Valverde",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "229",
+   "name": "Bellingham",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "230",
+   "name": "Güler",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "231",
+   "name": "Brahim Díaz",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "231 Bis",
+   "name": "Endrick",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "232",
+   "name": "Mbappé",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "233",
+   "name": "Rodrygo",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "233 Bis",
+   "name": "Gonzalo",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "234",
+   "name": "Vinícius",
+   "collection": "Real Madrid"
+ },
+ {
+   "id": "235",
+   "name": "Escudo",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "236",
+   "name": "Greif",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "236 Bis",
+   "name": "Bergström",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "237",
+   "name": "Leo Román",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "238",
+   "name": "Morey",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "238 Bis",
+   "name": "Maffeo",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "239",
+   "name": "Raíllo",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "240",
+   "name": "Copete",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "240 Bis",
+   "name": "Lato",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "241",
+   "name": "Valjent",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "242",
+   "name": "Mojica",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "243",
+   "name": "Samú Costa",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "244",
+   "name": "Mascarell",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "245",
+   "name": "Darder",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "246",
+   "name": "Antonio Sánchez",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "247",
+   "name": "Dani Rodríguez",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "248",
+   "name": "Morlanes",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "249",
+   "name": "Asano",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "250",
+   "name": "Muriqi",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "251",
+   "name": "Abdón",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "252",
+   "name": "Marc Domènech",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "252 Bis",
+   "name": "Jan Virgili",
+   "collection": "Mallorca"
+ },
+ {
+   "id": "253",
+   "name": "Escudo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "254",
+   "name": "Sergio Herrera",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "255",
+   "name": "Aitor Fernández",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "256",
+   "name": "Rosier",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "257",
+   "name": "Catena",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "258",
+   "name": "Boyomo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "259",
+   "name": "Herrando",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "260",
+   "name": "Juan Cruz",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "261",
+   "name": "Abel Bretones",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "262",
+   "name": "Moncayola",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "263",
+   "name": "Torró",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "264",
+   "name": "Iker Muñoz",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "265",
+   "name": "Rubén García",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "266",
+   "name": "Moi Gómez",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "267",
+   "name": "Aimar Oroz",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "268",
+   "name": "Kike Barja",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "268 Bis",
+   "name": "Iker Benito",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "269",
+   "name": "Raúl García",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "270",
+   "name": "Budimir",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "271",
+   "name": "Escudo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "272",
+   "name": "Aarón Escandell",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "273",
+   "name": "Moldovan",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "274",
+   "name": "Nacho Vidal",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "275",
+   "name": "Dani Calvo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "276",
+   "name": "Luengo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "276 Bis",
+   "name": "David Carmo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "277",
+   "name": "David Costas",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "278",
+   "name": "Rahim Alhassane",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "279",
+   "name": "Colombatto",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "280",
+   "name": "De La Hoz",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "280 Bis",
+   "name": "Reina",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "281",
+   "name": "Sibo",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "282",
+   "name": "Cazorla",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "283",
+   "name": "Álex Cardero",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "283 Bis",
+   "name": "Ilic",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "284",
+   "name": "Paulino",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "284 Bis",
+   "name": "Ejaria",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "285",
+   "name": "Hassan",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "286",
+   "name": "Ilyas Chaira",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "287",
+   "name": "Paraschiv",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "287 Bis",
+   "name": "Brandon Domingues",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "288",
+   "name": "Alemao",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "288 Bis",
+   "name": "Fede Viñas",
+   "collection": "Osasuna"
+ },
+ {
+   "id": "289",
+   "name": "Escudo",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "290",
+   "name": "Batalla",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "291",
+   "name": "Cárdenas",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "292",
+   "name": "Balliu",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "293",
+   "name": "Ratiu",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "294",
+   "name": "Lejeune",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "295",
+   "name": "Mumin",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "295 Bis",
+   "name": "Espino",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "296",
+   "name": "Pep Chavarría",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "297",
+   "name": "Pathé Ciss",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "298",
+   "name": "Pedro Díaz",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "298 Bis",
+   "name": "Gumbau",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "299",
+   "name": "Óscar Valentín",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "300",
+   "name": "Unai López",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "301",
+   "name": "Isi",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "302",
+   "name": "Nteka",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "302 Bis",
+   "name": "Trejo",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "303",
+   "name": "De Frutos",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "304",
+   "name": "Álvaro García",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "305",
+   "name": "Camello",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "306",
+   "name": "Etienne Eto'o",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "306 Bis",
+   "name": "Fran Pérez",
+   "collection": "Rayo Vallecano"
+ },
+ {
+   "id": "307",
+   "name": "Escudo",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "308",
+   "name": "Remiro",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "309",
+   "name": "Marrero",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "310",
+   "name": "Aramburu",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "311",
+   "name": "Martín",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "312",
+   "name": "Zubeldia",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "313",
+   "name": "Aritz Elustondo",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "314",
+   "name": "Pacheco",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "314 Bis",
+   "name": "Aihen Muñoz",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "315",
+   "name": "Javi López",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "315 Bis",
+   "name": "Turrientes",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "316",
+   "name": "Pablo Marín",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "316 Bis",
+   "name": "Gorrotxategi",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "317",
+   "name": "Brais Méndez",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "318",
+   "name": "Sergio Gómez",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "319",
+   "name": "Sucic",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "320",
+   "name": "Kubo",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "321",
+   "name": "Barrenetxea",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "322",
+   "name": "Oyarzabal",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "323",
+   "name": "Óskarsson",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "324",
+   "name": "Mariezkurrena",
+   "collection": "Real Sociedad"
+ },
+ {
+   "id": "325",
+   "name": "Escudo",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "326",
+   "name": "Nyland",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "327",
+   "name": "Álvaro Fernández",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "327 Bis",
+   "name": "Vlachodimos",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "328",
+   "name": "Carmona",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "329",
+   "name": "Juanlu",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "330",
+   "name": "Kike Salas",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "331",
+   "name": "Badé",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "331 Bis",
+   "name": "Castrín",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "332",
+   "name": "Nianzou",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "333",
+   "name": "Pedrosa",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "333 Bis",
+   "name": "Azpilicueta",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "334",
+   "name": "Gudelj",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "335",
+   "name": "Sow",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "336",
+   "name": "Agoumé",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "337",
+   "name": "Vargas",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "338",
+   "name": "Peque",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "339",
+   "name": "Ejuke",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "340",
+   "name": "Lukebakio",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "340 Bis",
+   "name": "Alexis Sánchez",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "341",
+   "name": "Isaac Romero",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "342",
+   "name": "Akor Adams",
+   "collection": "Sevilla"
+ },
+ {
+   "id": "343",
+   "name": "Escudo",
+   "collection": "Valencia"
+ },
+ {
+   "id": "344",
+   "name": "Dimitrievski",
+   "collection": "Valencia"
+ },
+ {
+   "id": "345",
+   "name": "Agirrezabala",
+   "collection": "Valencia"
+ },
+ {
+   "id": "346",
+   "name": "Foulquier",
+   "collection": "Valencia"
+ },
+ {
+   "id": "347",
+   "name": "Correia",
+   "collection": "Valencia"
+ },
+ {
+   "id": "348",
+   "name": "Mosquera",
+   "collection": "Valencia"
+ },
+ {
+   "id": "348 Bis",
+   "name": "Copete",
+   "collection": "Valencia"
+ },
+ {
+   "id": "349",
+   "name": "Diakhaby",
+   "collection": "Valencia"
+ },
+ {
+   "id": "350",
+   "name": "Tárrega",
+   "collection": "Valencia"
+ },
+ {
+   "id": "351",
+   "name": "Gayá",
+   "collection": "Valencia"
+ },
+ {
+   "id": "352",
+   "name": "Jesus Vázquez",
+   "collection": "Valencia"
+ },
+ {
+   "id": "353",
+   "name": "Pepelu",
+   "collection": "Valencia"
+ },
+ {
+   "id": "354",
+   "name": "André Almeida",
+   "collection": "Valencia"
+ },
+ {
+   "id": "355",
+   "name": "Javi Guerra",
+   "collection": "Valencia"
+ },
+ {
+   "id": "356",
+   "name": "Luis Rioja",
+   "collection": "Valencia"
+ },
+ {
+   "id": "357",
+   "name": "Santamaría",
+   "collection": "Valencia"
+ },
+ {
+   "id": "358",
+   "name": "Fran Pérez",
+   "collection": "Valencia"
+ },
+ {
+   "id": "358 Bis",
+   "name": "Danjuma",
+   "collection": "Valencia"
+ },
+ {
+   "id": "359",
+   "name": "Diego López",
+   "collection": "Valencia"
+ },
+ {
+   "id": "360",
+   "name": "Hugo Duro",
+   "collection": "Valencia"
+ },
+ {
+   "id": "360 Bis",
+   "name": "Lucas Beltrán",
+   "collection": "Valencia"
+ },
+ {
+   "id": "361",
+   "name": "Escudo",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "362",
+   "name": "Luiz Júnior",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "363",
+   "name": "Diego Conde",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "364",
+   "name": "Pau Navarro",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "365",
+   "name": "Foyth",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "366",
+   "name": "Logan Costa",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "366 Bis",
+   "name": "Mouriño",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "367",
+   "name": "Kambwala",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "368",
+   "name": "Sergi Cardona",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "368 Bis",
+   "name": "Pedraza",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "369",
+   "name": "Santi Comesaña",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "370",
+   "name": "Pape Gueye",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "371",
+   "name": "Parejo",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "372",
+   "name": "Denis Suárez",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "372 Bis",
+   "name": "Thomas",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "373",
+   "name": "Buchanan",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "374",
+   "name": "Ilias",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "374 Bis",
+   "name": "Solomon",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "375",
+   "name": "Pépé",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "376",
+   "name": "Ayoze",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "377",
+   "name": "Yéremy Pino",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "377 Bis",
+   "name": "Oluwaseyi",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "378",
+   "name": "Gerard Moreno",
+   "collection": "Villarreal"
+ },
+ {
+   "id": "379",
+   "name": "Álvaro García",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "380",
+   "name": "Balde",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "381",
+   "name": "Brahim Díaz",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "382",
+   "name": "Carlos Vicente",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "383",
+   "name": "Giuliano",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "384",
+   "name": "Kubo",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "385",
+   "name": "Luis Rioja",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "386",
+   "name": "Williams",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "387",
+   "name": "Yeremy Pino",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "388",
+   "name": "Ayoze",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "389",
+   "name": "Barrios",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "390",
+   "name": "Berenguer",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "391",
+   "name": "Camavinga",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "392",
+   "name": "Cubarsí",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "393",
+   "name": "De Paul",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "394",
+   "name": "Güler",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "395",
+   "name": "Iago Aspas",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "396",
+   "name": "Íñigo Martínez",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "397",
+   "name": "Jauregizar",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "398",
+   "name": "Javi Guerra",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "399",
+   "name": "Koundé",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "400",
+   "name": "Lejeune",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "401",
+   "name": "Lo Celso",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "402",
+   "name": "Muriqi",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "403",
+   "name": "Puado",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "404",
+   "name": "Sorloth",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "405",
+   "name": "Tchouaméni",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "406",
+   "name": "Canales",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "407",
+   "name": "Carlos Álvarez",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "408",
+   "name": "Coba",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "409",
+   "name": "Etienne Eto’o",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "410",
+   "name": "Etta Eyong",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "411",
+   "name": "Fer López",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "412",
+   "name": "García Pascual",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "413",
+   "name": "Hinojo",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "414",
+   "name": "Iker Córdoba",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "415",
+   "name": "Jesús Rodríguez",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "416",
+   "name": "Marc Doménech",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "417",
+   "name": "Mariezkurrena",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "418",
+   "name": "Pablo García",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "419",
+   "name": "Pau Navarro",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "420",
+   "name": "Rayane",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "421",
+   "name": "Sergi Domínguez",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "422",
+   "name": "Toni Fernández",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "423",
+   "name": "Yoel Lago",
+   "collection": "Máster Rookie"
+ },
+ {
+   "id": "424",
+   "name": "Agüero / Julián Alvarez",
+   "collection": "Flashback"
+ },
+ {
+   "id": "425",
+   "name": "Benzema / Mbappé",
+   "collection": "Flashback"
+ },
+ {
+   "id": "426",
+   "name": "Denilson / Isco",
+   "collection": "Flashback"
+ },
+ {
+   "id": "427",
+   "name": "Jordi Alba / Balde",
+   "collection": "Flashback"
+ },
+ {
+   "id": "428",
+   "name": "Kanouté / Lukebakio",
+   "collection": "Flashback"
+ },
+ {
+   "id": "429",
+   "name": "Muniain / Nico Williams",
+   "collection": "Flashback"
+ },
+ {
+   "id": "430",
+   "name": "Ronaldinho / Raphinha",
+   "collection": "Flashback"
+ },
+ {
+   "id": "431",
+   "name": "Sergio Ramos / Asencio",
+   "collection": "Flashback"
+ },
+ {
+   "id": "432",
+   "name": "Xavi / Pedri",
+   "collection": "Flashback"
+ },
+ {
+   "id": "433",
+   "name": "Delanteros Athletic: Aduriz, Fernando Llorente, Williams, Nico Williams.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "434",
+   "name": "Delanteros Atlético: Fernando Torres, Forlán, Griezmann, Julián Alvarez.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "435",
+   "name": "Medios FCB: Iniesta, Busquets, De Jong, Pedri.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "436",
+   "name": "Medios Real Madrid: Kroos, Casemiro, Modric, Valverde.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "437",
+   "name": "Defensas Real Madrid: Marcelo, Pepe, Carvajal, Militao.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "438",
+   "name": "Delantera FCB: Messi, Suárez, Lewandowski, Lamine Yamal.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "439",
+   "name": "Defensas FCB: Puyol, Piqué, Cubarsí, Íñigo.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "440",
+   "name": "Delanteros RM: Ronaldo Nazário, Cristiano Ronaldo, Vinicius, Mbappé.",
+   "collection": "Flashback Anthology"
+ },
+ {
+   "id": "441",
+   "name": "Lamine Yamal / Isco / Mbappé / Julián Alvarez / Oyarzabal.",
+   "collection": "Card Megapower"
+ },
+ {
+   "id": "442",
+   "name": "Huijsen",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "443",
+   "name": "Jutglà",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "444",
+   "name": "Raba",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "445",
+   "name": "Kike García",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "446",
+   "name": "Pablo Ibáñez",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "447",
+   "name": "Álex Baena",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "448",
+   "name": "Pablo Torre",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "449",
+   "name": "Alfon",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "450",
+   "name": "Joan García",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "451",
+   "name": "Robert Navarro",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "452",
+   "name": "Trent",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "453",
+   "name": "Moleiro",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "454",
+   "name": "Javi Muñoz",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "455",
+   "name": "Victor Muñoz",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "456",
+   "name": "Bardghji",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "457",
+   "name": "Caleta-Car",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "458",
+   "name": "Valentín Gómez",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "459",
+   "name": "Lemar",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "460",
+   "name": "Suazo",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "461",
+   "name": "Hancko",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "462",
+   "name": "Rashford",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "463",
+   "name": "Rondón",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "464",
+   "name": "Areso",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "465",
+   "name": "Dolan",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "466",
+   "name": "Rafa Marín",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "467",
+   "name": "Carreras",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "468",
+   "name": "Mateo Joseph",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "469",
+   "name": "Deossa",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "470",
+   "name": "Ugrinic",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "471",
+   "name": "Bryan Zaragoza",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "472",
+   "name": "Guedes",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "473",
+   "name": "Rafa Mir",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "474",
+   "name": "Vitor Reis",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "475",
+   "name": "Raspadori",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "476",
+   "name": "Mastantuono",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "477",
+   "name": "Manu Sánchez",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "478",
+   "name": "Pétrot",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "479",
+   "name": "Liso",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "480",
+   "name": "Luiz Felipe",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "481",
+   "name": "Koyalipou",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "482",
+   "name": "Kumbulla",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "483",
+   "name": "Denis Suárez",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "484",
+   "name": "Ramazani",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "485",
+   "name": "Becker",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "486",
+   "name": "Ounahi",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "487",
+   "name": "Renato Veiga",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "488",
+   "name": "Riedel",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "489",
+   "name": "Fábio Cardoso",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "490",
+   "name": "Dendoncker",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "491",
+   "name": "Carlos Soler",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "492",
+   "name": "Fede Redondo",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "493",
+   "name": "Livakovic",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "494",
+   "name": "Alemao",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "495",
+   "name": "Neyou",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "496",
+   "name": "Pickel",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "497",
+   "name": "Brekalo",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "498",
+   "name": "Batista Mendy",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "499",
+   "name": "Mikautadze",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "500",
+   "name": "Laporte",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "501",
+   "name": "Etta Eyong",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "502",
+   "name": "Vanat",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "503",
+   "name": "Amrabat",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "504",
+   "name": "Nico González",
+   "collection": "Nuevos Fichajes"
+ },
+ {
+   "id": "505",
+   "name": "Huijsen",
+   "collection": "Elite"
+ },
+ {
+   "id": "506",
+   "name": "Álex Baena",
+   "collection": "Elite"
+ },
+ {
+   "id": "507",
+   "name": "Cazorla",
+   "collection": "Elite"
+ },
+ {
+   "id": "508",
+   "name": "Carreras",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "509",
+   "name": "Rashford",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "510",
+   "name": "Víctor Muñoz",
+   "collection": "Vértigo"
+ },
+ {
+   "id": "511",
+   "name": "Hancko",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "512",
+   "name": "Joan García",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "513",
+   "name": "De Frutos",
+   "collection": "Zona Vip"
+ },
+ {
+   "id": "514",
+   "name": "Liso",
+   "collection": "Master Rookie"
+ },
+ {
+   "id": "515",
+   "name": "Rodri Mendoza",
+   "collection": "Master Rookie"
+ },
+ {
+   "id": "516",
+   "name": "Gorrotxategi",
+   "collection": "Master Rookie"
+ },
+ {
+   "id": "517",
+   "name": "Tamudo/Puado",
+   "collection": "Flashback"
+ },
+ {
+   "id": "518",
+   "name": "Joaquín/Antony",
+   "collection": "Flashback"
+ },
+ {
+   "id": "519",
+   "name": "Redondo/Di María/Higuaín/Mastantuono",
+   "collection": "Flashback Anthology"
+ }
+]
+}
